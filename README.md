@@ -1,10 +1,4 @@
-<style>
-    p {text-align: center;}
-    h1 {text-align: center;}
-    div {text-align: center;}
-    h2 {text-align: center;}
-</style>
-<h1>WELCOME <!DOCTYPE html></h1>
+<p align="center"><h1>WELCOME <!DOCTYPE html></h1></p>
 <div>
   <div>
     <div class="tenor-gif-embed" data-postid="24664025" data-share-method="host" data-aspect-ratio="0.73125" data-width="100%"><a href="https://tenor.com/view/kys-keep-yourself-safe-low-tier-god-gif-24664025">Kys Keep Yourself Safe GIF</a>from <a href="https://tenor.com/search/kys-gifs">Kys GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
